@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/techx.avif" alt="Project Overview" width="200">
+
 </p>
 
 Not Clickbait: An end-to-end Machine Learning web application built to classify news headlines as 'Clickbait' or 'Not Clickbait', 94.5% accuracy.
